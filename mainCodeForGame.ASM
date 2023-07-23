@@ -1,3 +1,14 @@
+;--> For those who are using DOSBOX 0.74.
+;--> For Sure you know the commands to run this assembly code.
+;--> But if you are a beginner don't worry I got you.
+;--> Windows: -c "mount c 'c:\My folder with DOS games\'"
+;--> Linux: -c "mount c \"/tmp/name with space\""
+;--> After this you'll write   ml mainCodeForGame.ASM
+;--> After this you'll write   mainCodeForGame.exe
+;--> Game will be executed :)
+;--> If Anything Does'nt work feel free to ask here
+;--> Hoping You get what you want.
+
 .model small
 .stack 100h
 
